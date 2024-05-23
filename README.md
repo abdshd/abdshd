@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Abdullah</h1>
 
-I'm a full-time student studying Computer Science at the University of Waterloo as well as Business Administration at Wilfrid Laurier University. 
+I'm currently doing a Software Engineering internship at Lyft, and I'm a full-time student studying Computer Science at the University of Waterloo as well as Business Administration at Wilfrid Laurier University. 
 
 <!--
 **abdshd/abdshd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
